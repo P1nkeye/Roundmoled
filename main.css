@@ -30,11 +30,11 @@ themevarsp
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
 :root{
-    --dark-primary: #000000;
-    --dark-secondary: #050505;
-    --dark-secondary-alt: #080808;
-    --dark-bright: #0b0b0b;
-    --roundmoled-background: #142339;
+    --dark-primary: #1d1d1d;
+    --dark-secondary: #141414;
+    --dark-secondary-alt: #1a1a1a;
+    --dark-bright: #171717;
+    --roundmoled-background: #ffffff;
     --popout-activeborders: #1f1f1f;
 }
 
