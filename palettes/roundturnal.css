@@ -2,11 +2,11 @@
 ***************************************************************************************/
 
 :root {
-    --dark-primary: rgb(30, 30, 40);
-    --dark-secondary: rgb(30, 30, 42);
-    --dark-secondary-alt: rgb(39, 37, 55);
+    --dark-primary: rgb(45, 45, 60);
+    --dark-secondary: rgb(40, 40, 52);
+    --dark-secondary-alt: rgb(58, 55, 82);
     --dark-bright: rgb(12, 12, 25);
-    --roundmoled-background: rgb(17, 17, 19);
+    --roundmoled-background: rgb(32, 32, 38);
     --popout-activeborders: rgb(58, 58, 101);
 }
 
@@ -20,7 +20,7 @@
 .theme-dark .invite-18yqGF,
 .accountProfileCard-1XCH88 {
     border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, .07) 0px 19px 38px, rgba(0, 0, 0, .08) 0px 15px 12px;
+    box-shadow: rgba(38, 38, 38, .07) 0px 19px 38px, rgba(38, 38, 38, .08) 0px 15px 12px;
 }
 
 /* not so rounded corners */
@@ -32,7 +32,7 @@
 /* Colores fix */
 #status-picker-invisible:hover,
 #status-picker-invisible.focused-3afm-j {
-    background-color: #262f36;
+    background-color: #202130;
     border-radius: 10px;
     transition: 250ms;
     box-shadow: rgba(91, 91, 91, .17) 0px 5px 15px;
@@ -40,7 +40,7 @@
 
 .modeSelected-346R90 .content-1x5b-n,
 .modeSelected-346R90:hover .content-1x5b-n {
-    background: linear-gradient(90deg, rgb(52, 70, 119) 0%, rgba(60, 105, 172, .07) 54%, rgba(0, 191, 255, 0) 100%);
+    background: linear-gradient(90deg, rgb(52, 70, 119) 0%, rgba(101, 60, 172, .07) 54%, rgba(157, 0, 255, 0) 100%);
 }
 
 #guild-header-popout-hide-muted-channels:hover,
@@ -69,7 +69,7 @@
 .theme-dark .option-96V44q:after {
     background: linear-gradient(
 90deg
-,rgba(21, 21, 21, 0),#0d0d2100 80%);
+,rgba(43, 41, 41, 0),#0d0d2100 80%);
 }
 
 .theme-dark .option-96V44q.selected-rZcOL- {
@@ -86,7 +86,7 @@
 /* discord vars */
 :root.theme-dark {
     --background-tertiary: rgb(42, 43, 72);
-    --background-secondary: #18191D;
+    --background-secondary: #212329;
     /* guild folder border background */
     --background-secondary-alt: var(--dark-primary);
     ;
